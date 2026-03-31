@@ -17,7 +17,8 @@ Task 2: Student Digital Portfolio
 Set up profiles on GitHub, LinkedIn, and Kaggle to build a professional online presence.
 
 Task 3: Coding & Collaboration Platforms
-Solved a beginner problem on HackerRank and created a Google Form for digital literacy awareness. Google Form Link: https://docs.google.com/forms/d/e/1FAIpQLSdrmM04Tu6oJfhpR2b3_30Poj1cAs-dBhdGY2HTF5SjZM62xA/viewform?usp=dialog
+Solved a beginner problem on HackerRank and created a Google Form for digital literacy awareness. Google Form Link: 
+https://docs.google.com/forms/d/e/1FAIpQLSdrmM04Tu6oJfhpR2b3_30Poj1cAs-dBhdGY2HTF5SjZM62xA/viewform?usp=dialog
 
 Task 4: Email Etiquette
 Drafted two professional emails and created a checklist for responsible social media usage.
